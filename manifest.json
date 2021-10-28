@@ -6,5 +6,10 @@
   "background": {
     "service_worker": "background.js"
   },
+  "icons": {
+    "16": "/images/puppy.png",
+    "48": "/images/puppy.png",
+    "128": "/images/puppy.png"
+  },
   "permissions": ["storage"]
 }
